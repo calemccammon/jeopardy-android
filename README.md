@@ -12,7 +12,7 @@ the official game: The player answers trivia questions. If the answer is wrong, 
 answer is right, you gain points. There is no Daily Double or anything like that -- just question and 
 answer.
 
-Jeopardy Android relies on the jService API found here: http://jservice.io/. The API provides the 
+Jeopardy Android relies on the jService API found here: http://jservice.io/. The APdI provides the 
 clues' information, including: category title, answer, dollar value, and so on.
 
 Jeopardy Android is my first Android application. It features a drawer menu with fragment creation, 

@@ -16,7 +16,7 @@ Jeopardy Android relies on the jService API found here: http://jservice.io/. The
 clues' information, including: category title, answer, dollar value, and so on.
 
 Jeopardy Android is my first Android application. It features a drawer menu with fragment creation, 
-API web calls, network connection error handling,  and persistent data through shared preferences, 
+API web calls, network connection error handling,  snackbar messages, and persistent data through shared preferences, 
 among others.
 
 Please note: Jeopardy Android has no afiliation with Jeopardy Productions and is made available solely 

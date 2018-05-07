@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="titleText" type="id">titleText</item>
+    <item name="aboutBody" type="id">aboutText</item>
+    <item name="aboutVersion" type="id">aboutVersion</item>
+    <item name="helpText" type="id">helpText</item>
+    <item name="helpTitle" type="id">helpTitle</item>
+    <item name="statsTitleText" type="id">statsTitleText</item>
+    <item name="statsBodyText" type="id">statsBodyText</item>
+    <item name="sessionText" type="id">sessionText</item>
+    <item name="lifetimeText" type="id">lifetimeText</item>
+</resources>

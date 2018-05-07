@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Jeopardy Android</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_fullscreen">FullscreenActivity</string>
+    <string name="drawer_open">Open navigation drawer</string>
+    <string name="drawer_close">Close navigation drawer</string>
+    <string name="show_answer">SHOW ANSWER</string>
+    <string name="skip">SKIP</string>
+    <string name="submit">SUBMIT</string>
+    <string name="enter_your_answer">Enter your answer</string>
+    <string name="about">About</string>
+    <string name="help">Help</string>
+    <string name="stats">Stats</string>
+    <string name="title_activity_about">About</string>
+    <string name="play">Play</string>
+    <string name="aboutText">Jeopardy Android uses the jService API created by
+        &lt;a href="https://github.com/sottenad">@sottenad&lt;/a>. The content is pulled from
+        the fan-created Jeopardy game &lt;a href="http://j-archive.com/">J! Archive&lt;/a>.
+        Jeopardy Android is for educational purposes only and has no affiliation with Jeopardy
+        Productions.</string>
+    <string name="helpText">1. From the menu, select Play. A clue will display in the blue
+        box with the category at the top and the question in the body of the text.\n\n
+        2. Enter your answer in the text field. Some hints: You don\'t need to enter leading
+        articles like a, an, or the. These are automatically removed. Names, spellings and
+        punctuations must match exactly. For names, you\'ll most likely need a first name and
+        a last name.\n\n
+        3. Press Submit. If you\'re wrong, you can try again. If you\'re right, you\'ll see the next
+        clue.\n\n
+        4. Each clue has a dollar value just like the original Jeopardy. If you\'re right, your
+        points go up. If you\'re wrong, you lose points. You can find your session and lifetime
+        score on the States page.\n\n
+        5. Don\'t know the answer? Press Skip. You\'ll see the next clue.\n\n
+        6. Give up? You can always press the Show Answer button.</string>
+    <string name="statsTitleText">Here\'s how you\'re doing!</string>
+    <string name="lets_play">JEOPARDY ANDROID\nLET\'S PLAY</string>
+</resources>

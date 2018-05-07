@@ -1,7 +1,7 @@
-![Alt text](https://github.com/calemccammon/jeopardy-android/tree/master/screenshots/3.png "Screenshot")
-![Alt text](https://github.com/calemccammon/jeopardy-android/tree/master/screenshots/1.png "Screenshot")
-![Alt text](https://github.com/calemccammon/jeopardy-android/tree/master/screenshots/4.png "Screenshot")
-![Alt text](https://github.com/calemccammon/jeopardy-android/tree/master/screenshots/2.png "Screenshot")
+![Alt text](/screenshots/3.png "Screenshot")
+![Alt text](/screenshots/1.png "Screenshot")
+![Alt text](/screenshots/4.png "Screenshot")
+![Alt text](/screenshots/2.png "Screenshot")
 
 # jeopardy-android
 <b>Jeopardy Android</b><br/>
